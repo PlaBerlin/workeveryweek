@@ -1,8 +1,6 @@
 # workeveryweek
 
-***Life moves pretty fast.Keep running all shitty things.***
-
-It's all about the bumps in your heart.
+***Life moves pretty fast.Keep running all this shitty things.***
 
 show my Weekly work in PPT.
 
